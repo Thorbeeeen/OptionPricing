@@ -6,8 +6,6 @@ import matplotlib.animation as ani
 import multiprocessing as mp
 import multiprocessing.shared_memory as sm
 
-import time as t
-
 from RKDP_Coeff import *
 
 
